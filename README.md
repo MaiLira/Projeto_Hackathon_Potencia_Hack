@@ -62,7 +62,7 @@ $ cd
 ```
 ## :framed_picture: Imagens referentes ao MVP
 
-## 👥👥 Equipe
+## 👥 Equipe 👥
 
 
  
