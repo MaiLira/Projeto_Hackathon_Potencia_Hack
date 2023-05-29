@@ -17,7 +17,11 @@ Esse produto será criado pela Equipe 3 durante os dois dias de Hackathon.
 
 ## :bookmark: Sobre nosso produto/MVP 
 
-
+É um aplicativo de mentorias que busca desenvolver uma comunidade com base nos pilares de uma rede de apoio colaborativa. Suas funcionalidades são:
+- Cadastro, login e uma autenticação
+- Criação de perfil e personificação
+- Vizualizar ofertas de mentorias e seus perfis 
+- Marcação de mentoriais e agendamento
  
 
 
