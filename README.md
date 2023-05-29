@@ -20,7 +20,7 @@ Esse produto será criado pela Equipe 3 durante os dois dias de Hackathon.
 É um aplicativo de mentorias que busca desenvolver uma comunidade com base nos pilares de uma rede de apoio colaborativa. Suas funcionalidades são:
 - Cadastro, login e uma autenticação
 - Criação de perfil e personalização
-- Vizualizar ofertas de mentorias e seus perfis 
+- Vizualizar ofertas de mentorias e os perfis das mentoras
 - Marcação de mentoriais e agendamento
  
 
