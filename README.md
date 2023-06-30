@@ -8,7 +8,7 @@
 </h2>
 
 
-## 🚀 CODIGO DO PROJETO: https://drive.google.com/file/d/1ia2YiGYwwLxl81_idS0RZljI1Zeb-N61/view
+
  
 ##  :pencil: Descrição do Projeto 
 
